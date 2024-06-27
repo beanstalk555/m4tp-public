@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite as below."
+authors:
+- family-names: "Stucky"
+  given-names: "Ben"
+  orcid: "https://orcid.org/0000-0003-4293-6475"
+title: "Code to accompany 'Code to accompany "Poverty as a health issue" chapter in Math for the People'"
+version: 0.0.1
+doi: None
+date-released: 2024-06-24
+url: "https://github.com/beanstalk555/m4tp-public"
